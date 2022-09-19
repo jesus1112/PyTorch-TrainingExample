@@ -40,8 +40,8 @@ if __name__ == '__main__':
         4.2) Loop to evaluate model
             4.2.1) Forward pass the validation data
             4.2.2) Calculate validation error and register it
-            4.2.3) Saves model weights if the accuracy is higher than before
-    5) Saves loss values and error values
+            4.2.3) Save model weights if the accuracy is higher than before
+    5) Save loss values and error values
     """
 
     # 1) Instance of Neural Network
